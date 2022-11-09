@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope","l":"ArithmeticOperators"},{"p":"it.develhope.Exception","l":"DivideByZeroException"},{"p":"it.develhope","l":"Main"}];updateSearchResults();
